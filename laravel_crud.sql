@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS laravel_crud;
+
+CREATE DATABASE IF NOT EXISTS laravel_crud CHARACTER SET "utf8" COLLATE "utf8_spanish2_ci";
